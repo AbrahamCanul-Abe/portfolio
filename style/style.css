@@ -22,4 +22,10 @@ body{
 }
 .container__tecnologies{
     background-color: rgb(255, 255, 255);
+    margin: 0 300px;
+    
+}
+.container__tecnologies img{
+    width: 200px;
+    height: 200px;
 }
