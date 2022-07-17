@@ -1,3 +1,6 @@
+*{
+    font-family: system-ui;
+}
 body{
     background: rgb(23,76,77);
     background: -moz-radial-gradient(circle, rgba(23,76,77,1) 0%, rgba(17,13,42,1) 100%);
@@ -16,4 +19,7 @@ body{
     color: aliceblue;
     font-weight: bold;
     font-size: 50px;
+}
+.container__tecnologies{
+    background-color: rgb(255, 255, 255);
 }
